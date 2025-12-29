@@ -1,0 +1,25 @@
+{
+  "name": "softuseword",
+  "version": "1.0.0",
+  "description": "一个前端开发者用来记录文档的网站。",
+  "homepage": "https://github.com/top-a/softuseword#readme",
+  "bugs": {
+    "url": "https://github.com/top-a/softuseword/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/top-a/softuseword.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "vitepress",
+    "doc:build": "vitepress build"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
