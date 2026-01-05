@@ -1,6 +1,6 @@
 export default {
-  title: '不点外勤',
-  description: '介绍手册',
+  title: '使用手册',
+  description: '这是一个用于项目记录文档、前后端学习记录的手册',
   lnag: 'zh-CN',
   lastUpdated: true,
   locales: {
@@ -16,18 +16,18 @@ export default {
       provider: 'local',
     },
     nav: [
-      { text: '首页', link: '/docs/index' },
-      { text: '使用指南', link: '/docs/use/guide' },
+      { text: '首页', link: '/' },
+      { text: 'AI索引', link: 'https://github.com/LiLittleCat/awesome-free-chatgpt?tab=readme-ov-file' },
       {
         text: 'v1.0.1',
         items: [
-          { text: '更新日志', link: 'https://www.thegithubshop.com/' },
-          { text: '团队介绍', link: 'https://www.thegithubshop.com/' }
+          { text: '更新日志', link: 'https://github.com/top-a/softuseword/commits/main/' },
+          { text: '个人介绍', link: 'https://github.com/Front-End-Den' }
         ]
       }
     ],
     sidebar: {
-      '/docs/': [
+      '/docs/budian/': [
         {
           text: '产品简介',
           items: [
@@ -95,7 +95,7 @@ export default {
           ]
         }
       ],
-      '/docs/use/guide': [
+      '/docs/budian/guide': [
         {
           text: 'APP使用指南',
           items: [
@@ -140,8 +140,8 @@ export default {
       { icon: 'bilibili', link: 'https://www.bilibili.com/' },
     ],
     footer: {
-      message: 'ICP 备案号 蜀ICP备2025145416号-2.',
-      copyright: 'Copyright © 2025- 不点智软（成都）科技有限公司'
+      message: 'ICP 备案号 渝ICP备20260106001号-1',
+      copyright: 'Copyright © 2025-2026 初心不改个人工作室'
     }
   }
 }
