@@ -9,9 +9,12 @@ export default {
       lang: 'zh-CN'
     }
   },
+  head: [
+    ['link', { rel: 'icon', href: '/logo.ico' }] // 使用绝对路径
+  ],
   themeConfig: {
     i18nRouting: true,
-    logo: "/assets/logo.png",
+    logo: "/logo.png",
     search: {
       provider: 'local',
     },
