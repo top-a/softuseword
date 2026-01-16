@@ -20,6 +20,7 @@
     "doc:build": "vitepress build"
   },
   "dependencies": {
+    "ant-design-vue": "^4.2.6",
     "vitepress": "^1.6.4"
   }
 }
