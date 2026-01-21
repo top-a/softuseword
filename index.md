@@ -116,8 +116,6 @@
 
   - [Axios前端请求](https://www.axios-http.cn/docs/intro)  
   - [EMQX-mqtt](https://www.emqx.com/zh/blog/the-easiest-guide-to-getting-started-with-mqtt)
-  - [websocket](/)
-  - [ble - 低功耗蓝牙](/)
   
   前端跨平台技术框架：
 
