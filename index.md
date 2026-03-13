@@ -53,3 +53,12 @@
 ## 其它
 
   
+  - [Ant-Design-Vue前端组件 - 适用于web后台管理系统](https://antdv.com)
+  - [Vant-UI前端组件 - 适用于H5移动端项目](https://vant.pro)
+  - [Axios前端请求](https://www.axios-http.cn/docs/intro)  
+  - [EMQX-mqtt](https://www.emqx.com/zh/blog/the-easiest-guide-to-getting-started-with-mqtt)
+  - [Electron - 跨Mac/Windows/Linux桌面程序的框架](https://www.electronjs.org/zh/docs/latest/tutorial/tutorial-first-app)
+  - [Uniapp - 跨Android/IOS/小程序三个平台的框架](https://uniapp.dcloud.net.cn/)
+  - [Aos.js动画 - 适用于官网简单动画](http://michalsnik.github.io/aos/)
+  - [swaagerAPI - 也叫OpenApi](https://swagger.org.cn/docs/)
+  - [alice数据和密钥](/docs/alicepwd)

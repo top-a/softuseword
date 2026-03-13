@@ -19,7 +19,7 @@ export default {
       provider: 'local',
     },
     nav: [
-      { text: 'v1.0.2', link: '/#' }
+      { text: 'v1.0.1', link: '/#' }
     ],
     sidebar: {},
     socialLinks: [
