@@ -1,6 +1,6 @@
 export default {
-  title: '使用手册',
-  description: '这是一个用于项目记录文档、前后端学习记录的手册',
+  title: '爱丽丝的手札笔记',
+  description: '这是一个用于资源分享文档',
   lnag: 'zh-CN',
   lastUpdated: true,
   locales: {
@@ -19,25 +19,18 @@ export default {
       provider: 'local',
     },
     nav: [
-      { text: '首页', link: '/' },
-      { text: 'AI索引', link: 'https://github.com/LiLittleCat/awesome-free-chatgpt?tab=readme-ov-file' },
-      {
-        text: 'v1.0.2',
-        items: [
-          { text: '更新日志', link: 'https://github.com/top-a/softuseword/commits/main/' },
-          { text: '个人介绍', link: 'https://github.com/Front-End-Den' }
-        ]
-      }
+      { text: 'v1.0.2', link: '/#' }
     ],
     sidebar: {},
     socialLinks: [
+      { icon: 'telegram', link: 'https://www.telegram.com/' },
+      { icon: 'twitter', link: 'https://www.twitter.com/' },
+      { icon: 'onlyfans', link: 'https://www.onlyfans.com/' },
       { icon: 'tiktok', link: 'https://www.douyin.com/' },
-      { icon: 'xiaohongshu', link: 'https://www.xiaohongshu.com/' },
-      { icon: 'bilibili', link: 'https://www.bilibili.com/' },
     ],
     footer: {
-      message: 'ICP 备案号 渝ICP备00000000000号-0(尝试备案中)',
-      copyright: 'Copyright © 2025-2026 ChengYu前端开发'
+      message: '免责申明：本网站受美利坚法律保护，我们无法阻止访问者的行为，因此产生的任何后果由您自行负责',
+      copyright: "Copyright © 2025-2026 Alice's home"
     }
   }
 }
